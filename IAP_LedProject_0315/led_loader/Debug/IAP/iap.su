@@ -1,0 +1,2 @@
+iap.c:68:6:iap_write_appbin	48	static
+iap.c:130:6:iap_load_app	24	static,ignoring_inline_asm

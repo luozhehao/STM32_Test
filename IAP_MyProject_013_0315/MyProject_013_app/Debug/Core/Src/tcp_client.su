@@ -1,0 +1,4 @@
+tcp_client.c:68:6:tcp_client_disconnect	8	static
+tcp_client.c:79:8:tcp_client_send_data	24	static
+tcp_client.c:95:13:tcp_client_socket_thread	1040	static
+tcp_client.c:138:6:tcp_client_init	16	static

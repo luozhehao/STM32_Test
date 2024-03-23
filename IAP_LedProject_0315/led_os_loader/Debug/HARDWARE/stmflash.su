@@ -1,0 +1,8 @@
+stmflash.c:30:5:STMFLASH_ReadWord	16	static
+stmflash.c:38:4:STMFLASH_GetFlashSector	16	static
+stmflash.c:55:6:STMFLASH_Erase	56	static
+stmflash.c:103:6:STMFLASH_Write	64	static
+stmflash.c:184:6:STMFLASH_Read	40	static
+stmflash.c:197:6:Test_Write	16	static
+stmflash.c:208:6:WriteFlashTest	56	static
+stmflash.c:241:6:PrintFlashTest	24	static

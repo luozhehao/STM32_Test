@@ -1,0 +1,3 @@
+iap.c:69:6:iap_write_appbin	48	static
+iap.c:131:6:iap_load_app	24	static,ignoring_inline_asm
+iap.c:153:6:BSPJumpToReset	16	static

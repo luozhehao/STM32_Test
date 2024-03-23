@@ -1,0 +1,2 @@
+rf433.c:15:6:soft_count	8	static
+rf433.c:37:6:soft_decode	8	static

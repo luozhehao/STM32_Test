@@ -1,0 +1,3 @@
+tcp_process.c:15:6:TCP_Handle	120	static
+tcp_process.c:309:6:packVwasCmd	48	static
+tcp_process.c:351:6:getCcdServiceCmdRsp	32	static

@@ -1,0 +1,5 @@
+sys.c:46:6:Stm32_Clock_Init	104	static
+sys.c:101:6:WFI_SET	4	static,ignoring_inline_asm
+sys.c:107:6:INTX_DISABLE	4	static,ignoring_inline_asm
+sys.c:113:6:INTX_ENABLE	4	static,ignoring_inline_asm
+sys.c:120:6:MSR_MSP	16	static,ignoring_inline_asm
